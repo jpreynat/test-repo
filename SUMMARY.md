@@ -1,4 +1,4 @@
-# SUMMARY
+# Table of contents
 
 * [Introduction](README.md)
 
@@ -9,3 +9,5 @@
 ## Group 2
 
 * [Some other page](some-other-page.md)
+* [Yet another page](yet-another-page.md)
+
