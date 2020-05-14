@@ -9,5 +9,5 @@
 ## Group 2
 
 * [Some other page](group-2/some-other-page.md)
-* [Yet another page](yet-another-page.md)
+* [Yet another page](group-2/yet-another-page.md)
 
