@@ -1,4 +1,3 @@
 # Introduction
 
-Welcome to GBX..!
-
+Welcome to GBX!
